@@ -8,7 +8,7 @@ slug: /
 
 ![Ladel Demo](/img/ladle-baseweb.png)
 
-## Why? Performance!
+## Why? Performance change!
 
 Ladle supports only React, embraces the latest standards (ES Modules) and focuses on performance. It's built around [Vite](https://vitejs.dev/) - modules are directly served to the browser and the bundling step is completely skipped. This means **instant server starts** no matter how many components it needs to load.
 
